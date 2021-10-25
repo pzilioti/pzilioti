@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Paolo
+- 👀 I’m interested in full stack development
+- 🌱 I’m currently learning kubernetes and aws
+- 📫 See more about my projects in www.zilioti.dev
